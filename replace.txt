@@ -1,0 +1,1 @@
+aio_xxxxxxxxxxxxxxxx==>YOUR_ADAFRUIT_KEY_HERE
